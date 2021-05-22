@@ -5,5 +5,5 @@ docker run \
 go-lambda-sample:latest /main
 
 ## 参考にした資料
-https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/go-image.html
-https://michimani.net/post/aws-deploy-lambda-function-as-container-image/
+* https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/go-image.html
+* https://michimani.net/post/aws-deploy-lambda-function-as-container-image/
